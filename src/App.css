@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+.operators{
+  background-color: rgba(255, 166, 0, 0.479);
+  font-size: 20px;
+  font-weight: bold;
+}
+.operators:hover{
+  background-color: rgb(255, 166, 0);
+  font-size: 20px;
+  font-weight: bold;
+}
+.operatorsother{
+  background-color: rgba(128, 128, 128, 0.514);
+}
+.operatorsother:hover{
+  background-color: grey;
+}
+.concspan{
+  font-size: 15px;
+}
+.tableborder{
+  border: none
+}
